@@ -1,9 +1,9 @@
 {
   "mainAssemblyName": "rclaboratory",
   "resources": {
-    "hash": "sha256-a29dXIreCjn5QGEZCk1RljmQ5ADOHY5i+6JBRWPshrU=",
+    "hash": "sha256-o9m42Sa3Cnb11lgcLorWROOl6w3115MKaGOXXKqOWCc=",
     "jsModuleNative": {
-      "dotnet.native.8.0.7.d8asmq9eu7.js": "sha256-7mUf77X9kA8XQSanKrMFFP42Cd+qNdOCGHeI1c5JxXo="
+      "dotnet.native.8.0.7.yjnbq2ufvr.js": "sha256-7mUf77X9kA8XQSanKrMFFP42Cd+qNdOCGHeI1c5JxXo="
     },
     "jsModuleRuntime": {
       "dotnet.runtime.8.0.7.3dp1i72u0p.js": "sha256-soZyw6XWXOLKhA26AOyzSpCP5cAsw1wvhdPHSYNTMfQ="
@@ -31,7 +31,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-6187ynEahDlSLMBvD4vAmiLpZ3clRb5xu6rM7O8AxNo=",
       "Microsoft.JSInterop.wasm": "sha256-1vXTFGB8f1xknhrY0hxfr04x1/JK+bA0IxTp2CBzmhY=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-2qBJkLnOCr4py2S0peps0cFo0z3Ew9OVwGYodtvAVkk=",
-      "rclaboratory.wasm": "sha256-iFZxTDdVFacxo+N583skU0qPhy8jeDaaE1sj9IEPbtQ=",
+      "rclaboratory.wasm": "sha256-/JoXGgKsCiR5xaxk8n+xLLKgEN+rS58Bpu0cFAIbpgY=",
       "System.Collections.Concurrent.wasm": "sha256-esrXJViSl51Ig4J0nVUn2bAyFzJSYNEiCGfpOMqSGJQ=",
       "System.Collections.wasm": "sha256-qRBM6ZhxFC5pQQQ/j4xv+3r6wyblFs0TmBxiTbDxrcw=",
       "System.ComponentModel.wasm": "sha256-TglF9Cma6UOoLFYnvaWKbPJjgEG7PgkN5biRsqmZKiQ=",
